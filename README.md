@@ -19,3 +19,7 @@
  quality and efficiency.
 
 " Combining these skills, I excel at transforming abstract concepts into tangible outcomes, delivering cloud solutions that drive business growth and innovation. If you're looking for someone who can bring fresh ideas, technical expertise, and a passion for excellence to your team, let's connect and build something remarkable together."
+
+🌐 Socials:
+
+https://www.linkedin.com/in/venkatesh-noudy/
