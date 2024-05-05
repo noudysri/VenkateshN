@@ -25,3 +25,6 @@
 [LinkedIn Profile - Venkatesh Noudy](https://www.linkedin.com/in/venkatesh-noudy/)
 
 
+💻 Tech Stack:
+
+Apache Groovy Azure Nginx ARGOCD  AZUREDEVOPS Docker SONARQUBE PROMETHEUS Kubernetes GRAFANA Terraform Bicep Maven Shell Scripting Python 
