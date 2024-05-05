@@ -22,4 +22,6 @@
 
 🌐 Socials:
 
-https://www.linkedin.com/in/venkatesh-noudy/
+[LinkedIn Profile - Venkatesh Noudy](https://www.linkedin.com/in/venkatesh-noudy/)
+
+
