@@ -28,6 +28,14 @@
 💻 Tech Stack:
 
 ![image](https://github.com/noudysri/VenkateshN/assets/53108554/1d7a85e1-fb77-4f8f-be48-ce8e6c98b8e3)
+ ![image](https://github.com/noudysri/VenkateshN/assets/53108554/04d83dfd-4464-4b00-ba73-cde2c24dc01f)
+ ![image](https://github.com/noudysri/VenkateshN/assets/53108554/6ad8bb7f-c7f5-4694-ac5b-38579e7ccda4)
+ ![image](https://github.com/noudysri/VenkateshN/assets/53108554/350e2cc8-bfd0-4ff9-955a-cffd2d5b6ed1)
+ ![image](https://github.com/noudysri/VenkateshN/assets/53108554/c8c3245a-028e-4aef-a7b0-14679aed26ff)
+ ![image](https://github.com/noudysri/VenkateshN/assets/53108554/65d78c1a-3628-4753-ac03-544b041f20a5)
+ ![image](https://github.com/noudysri/VenkateshN/assets/53108554/956f1d59-99e1-401c-aa3b-b523d5fd0153)
+ ![image](https://github.com/noudysri/VenkateshN/assets/53108554/cc07b6a8-0d42-4d8d-9f8f-b715620d3f81)
 
-
-Apache Groovy Azure Nginx ARGOCD  AZUREDEVOPS Docker SONARQUBE PROMETHEUS Kubernetes GRAFANA Terraform Bicep Maven Shell Scripting Python 
+ 
+# Bicep # Python # Shell Scripting # GitHub # 
+ 
