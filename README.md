@@ -27,4 +27,7 @@
 
 💻 Tech Stack:
 
+![image](https://github.com/noudysri/VenkateshN/assets/53108554/1d7a85e1-fb77-4f8f-be48-ce8e6c98b8e3)
+
+
 Apache Groovy Azure Nginx ARGOCD  AZUREDEVOPS Docker SONARQUBE PROMETHEUS Kubernetes GRAFANA Terraform Bicep Maven Shell Scripting Python 
