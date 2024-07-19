@@ -37,5 +37,4 @@
  ![image](https://github.com/noudysri/VenkateshN/assets/53108554/cc07b6a8-0d42-4d8d-9f8f-b715620d3f81)
 
  
-# Bicep # Python # Shell Scripting # GitHub # 
- 
+# Bicep # Python # Shell Scripting # GitHub # Terraform # Azure DevOps # Kubernetes # Monitoring #
